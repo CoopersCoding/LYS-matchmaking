@@ -2122,6 +2122,7 @@ hr {
 
 .navbar > .container {
     position: relative;
+
 }
 
 @media all and (min-width: 576px) {
@@ -52199,7 +52200,7 @@ svg.g-transition--linear polygon {
 }
 
 .g-bg-business-landing-promo {
-    background-image: url(https://picsum.photos/1920/1080/?random);
+    background-image: url(../img/bg/hero-dating.jpg);
     background-position-y: 75px;
 }
 
