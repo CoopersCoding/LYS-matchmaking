@@ -149,7 +149,6 @@ body {
     text-rendering: optimizelegibility;
     background-color: #fff;
 }
-
 a {
     color: #111111;
     outline: none;
@@ -258,7 +257,6 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 12px;
     line-height: 1.5;
 }
-
 /*=======================================================
   4.2. Arrows
 ========================================================*/
